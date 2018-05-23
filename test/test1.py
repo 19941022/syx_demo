@@ -7,4 +7,8 @@ str2 = 123
 str3 = 12345
 
 
+def dadsa()
+    dsads
+    print('nihao')
+
 
