@@ -11,4 +11,8 @@ def dadsa()
     dsads
     print('nihao')
 
+def dsa1():
+    dadsa
+    print('hai')
+
 
